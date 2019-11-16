@@ -7,7 +7,7 @@ body {
 pre {
     position: absolute;
     color: tomato;
-    font-size: 22px;
+    font-size: 32px;
     font-family: monospace;
     font-weight: bolder;
 }
@@ -22,6 +22,7 @@ pre {
     font-weight: 100;
     color: #e3e3e3 !important;
 }
+/* 
 
 
 
