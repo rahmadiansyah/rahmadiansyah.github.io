@@ -4,6 +4,10 @@ body {
 }
 
 pre {
+    left: 50%;
+    top: 50%;
+    margin-top: -100px;
+    margin-left: -150px;
     position: absolute;
     color: tomato;
     font-size: 12px;
@@ -21,7 +25,7 @@ pre {
     font-weight: 100;
     color: #e3e3e3 !important;
 }
-   /* 
+
 
 
 
