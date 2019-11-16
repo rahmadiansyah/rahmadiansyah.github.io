@@ -4,7 +4,6 @@ body {
 }
 
 pre {
-    position: absolute;
     color: tomato;
     font-size: 12px;
     font-family: monospace;
@@ -21,7 +20,6 @@ pre {
     font-weight: 100;
     color: #e3e3e3 !important;
 }
-   /* 
  
 
 
