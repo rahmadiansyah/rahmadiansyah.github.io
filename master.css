@@ -1,13 +1,12 @@
 body {
     padding: 180px 0 0 40px;
-    position: absolute;
     background: #101010;
 }
 
 pre {
     position: absolute;
     color: tomato;
-    font-size: 32px;
+    font-size: 12px;
     font-family: monospace;
     font-weight: bolder;
 }
