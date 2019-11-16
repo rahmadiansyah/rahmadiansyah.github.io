@@ -1,9 +1,10 @@
 body {
-    padding: 180px 0 0 40px;
+    padding: 180px 0 0 0px;
     background: #101010;
 }
 
 pre {
+    position: absolute;
     color: tomato;
     font-size: 12px;
     font-family: monospace;
